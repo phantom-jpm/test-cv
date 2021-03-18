@@ -1,0 +1,50 @@
+body {
+    background-color: #eaf6f6;
+}
+
+h1 {
+    color: #00587a;
+    text-shadow: 4px 4px 4px #78c4d4;
+}
+
+h3 {
+    color: #008891;
+    text-shadow: 4px 4px 4px #6e7c7c;
+}
+
+hr {
+    border-color: #bfc4c2;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 3.5%;
+}
+
+a:hover {
+    color: salmon;
+    cursor: pointer;
+}
+
+
+/* #####################################  CLASS SELECTOR  ###########################################*/
+
+.intro {
+    background-color: antiquewhite;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: 1px solid #f2c993;
+    border-width: 2px;
+
+}
+
+
+.profile {
+    border-radius: 100%;
+    border: 3px solid #aee1e1;
+    cursor: url("/images/cursor.png"), auto;
+}
+
+
+
+
+/*######################################  ID SELECTOR #################################################*/
